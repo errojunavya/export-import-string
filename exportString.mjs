@@ -1,2 +1,2 @@
-let a = "Be Happy and Safe";
-module.exports = a;
+const a = "Be Happy and Safe";
+export default a;
